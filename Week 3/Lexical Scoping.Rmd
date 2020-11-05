@@ -1,7 +1,7 @@
 ---
 title: 'Week 3: Programming Assignment 2 - Lexical Scoping'
 author: "Joshua Dagoy"
-date: "11/42020"
+date: "11/4/2020"
 output: statsr:::statswithr_lab
 ---
 
